@@ -1,0 +1,12 @@
+bin/
+obj/
+.vscode/
+.vs/
+*.user
+*.swp
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+*.DS_Store
+.env
