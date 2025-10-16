@@ -21,3 +21,4 @@ Built with **ASP.NET Core Web API**, it demonstrates secure authentication, clea
 dotnet restore
 dotnet build
 dotnet run --project src/FitnessTracker.Api/FitnessTracker.Api.csproj
+http://localhost:8080/swagger
