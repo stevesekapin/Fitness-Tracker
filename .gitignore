@@ -1,0 +1,16 @@
+# Build and cache
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Data persistence JSON files
+data/*.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
